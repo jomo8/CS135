@@ -1,0 +1,8 @@
+pickle
+string
+nltk
+subprocess
+sys
+contractions
+torch
+transformers
